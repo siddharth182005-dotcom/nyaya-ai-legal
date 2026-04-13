@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.quickSuggestions": { "strings": true },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "files.associations": { "*.jsx": "javascriptreact" },
+  "tailwindCSS.includeLanguages": { "javascript": "javascript" },
+  "css.validate": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
